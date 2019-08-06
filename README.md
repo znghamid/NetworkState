@@ -2,7 +2,7 @@
 
 You must first include the following permission in the Androidmanifest file:
 
-In the file "permissin"
+In the file "permission"
 
 Create a class called NetworkState:
 
