@@ -2,7 +2,7 @@
 
 You must first put the following Permission in the Androidmanifest file:
 
-<uses-permission android: name = "android.permission.ACCESS_NETWORK_STATE" />
+"<uses-permission android: name = "android.permission.ACCESS_NETWORK_STATE" />"
 
 Create a class called NetworkState:
 
