@@ -1,9 +1,9 @@
 if (isNetwork.isNetworkConnected(getApplicationContext()) == true) {
 
-	// Your code when connected to the Internet
+	// when connected
 
 } else {
 
-	// Your code is not connected to the Internet
+	// when not connected
 
 }
